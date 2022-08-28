@@ -6,8 +6,8 @@ From a code-along [on Youtube](https://www.youtube.com/watch?v=OpL0Gcfn4B4) by [
 
 ## Controls
 
-Use mouse to move pieces.
-Press 't' to change theme (green, brown, blue, gray)
+Use mouse to move pieces. 
+Press 't' to change theme (green, brown, blue, gray). 
 Press 'r' to restart the game.
 
 ## Install & Running the Game
